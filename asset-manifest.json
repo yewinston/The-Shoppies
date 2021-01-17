@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/theshoppies/static/css/main.a792c087.chunk.css",
-    "main.js": "/theshoppies/static/js/main.ec311e57.chunk.js",
-    "main.js.map": "/theshoppies/static/js/main.ec311e57.chunk.js.map",
-    "runtime-main.js": "/theshoppies/static/js/runtime-main.d873c9ef.js",
-    "runtime-main.js.map": "/theshoppies/static/js/runtime-main.d873c9ef.js.map",
-    "static/js/2.b0f913f5.chunk.js": "/theshoppies/static/js/2.b0f913f5.chunk.js",
-    "static/js/2.b0f913f5.chunk.js.map": "/theshoppies/static/js/2.b0f913f5.chunk.js.map",
-    "static/js/3.d84d39e2.chunk.js": "/theshoppies/static/js/3.d84d39e2.chunk.js",
-    "static/js/3.d84d39e2.chunk.js.map": "/theshoppies/static/js/3.d84d39e2.chunk.js.map",
-    "index.html": "/theshoppies/index.html",
-    "static/css/main.a792c087.chunk.css.map": "/theshoppies/static/css/main.a792c087.chunk.css.map",
-    "static/js/2.b0f913f5.chunk.js.LICENSE.txt": "/theshoppies/static/js/2.b0f913f5.chunk.js.LICENSE.txt",
-    "static/media/Thasadith-Bold.f9eb2a20.ttf": "/theshoppies/static/media/Thasadith-Bold.f9eb2a20.ttf"
+    "main.css": "/The-Shoppies/static/css/main.a792c087.chunk.css",
+    "main.js": "/The-Shoppies/static/js/main.ec311e57.chunk.js",
+    "main.js.map": "/The-Shoppies/static/js/main.ec311e57.chunk.js.map",
+    "runtime-main.js": "/The-Shoppies/static/js/runtime-main.0b2465f5.js",
+    "runtime-main.js.map": "/The-Shoppies/static/js/runtime-main.0b2465f5.js.map",
+    "static/js/2.b0f913f5.chunk.js": "/The-Shoppies/static/js/2.b0f913f5.chunk.js",
+    "static/js/2.b0f913f5.chunk.js.map": "/The-Shoppies/static/js/2.b0f913f5.chunk.js.map",
+    "static/js/3.d84d39e2.chunk.js": "/The-Shoppies/static/js/3.d84d39e2.chunk.js",
+    "static/js/3.d84d39e2.chunk.js.map": "/The-Shoppies/static/js/3.d84d39e2.chunk.js.map",
+    "index.html": "/The-Shoppies/index.html",
+    "static/css/main.a792c087.chunk.css.map": "/The-Shoppies/static/css/main.a792c087.chunk.css.map",
+    "static/js/2.b0f913f5.chunk.js.LICENSE.txt": "/The-Shoppies/static/js/2.b0f913f5.chunk.js.LICENSE.txt",
+    "static/media/Thasadith-Bold.f9eb2a20.ttf": "/The-Shoppies/static/media/Thasadith-Bold.f9eb2a20.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.d873c9ef.js",
+    "static/js/runtime-main.0b2465f5.js",
     "static/js/2.b0f913f5.chunk.js",
     "static/css/main.a792c087.chunk.css",
     "static/js/main.ec311e57.chunk.js"
