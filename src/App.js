@@ -27,8 +27,8 @@ import Thasadith from './components/media/fonts/Thasadith-Bold.ttf';
 
 // OMDb API
 const api_key = "f1e54df5";
-const api_uri = `http://www.omdbapi.com/?apikey=${api_key}&type=movie&`;
-const api_img_uri = `http://img.omdbapi.com/?apikey=${api_key}&`
+const api_uri = `https://www.omdbapi.com/?apikey=${api_key}&type=movie&`;
+const api_img_uri = `https://img.omdbapi.com/?apikey=${api_key}&`
 
 const thasadith = {
     fontFamily: 'Thasadith',
