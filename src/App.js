@@ -101,7 +101,7 @@ function App() {
                         )
                     }}
                 />
-                <IconButton color="inherit" style={{padding: "16px"}} onClick={() => window.open("https://github.com/yewinston")}>
+                <IconButton color="inherit" style={{padding: "16px"}} onClick={() => window.open("https://github.com/yewinston/The-Shoppies")}>
                     <GitHubIcon />
                 </IconButton>
             </Toolbar>

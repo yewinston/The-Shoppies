@@ -29,7 +29,6 @@ export default function Progress(){
     const [showNominees, setShowNominees] = useState(false);
 
     if(numNomationsLeft > 0 && showNominees){
-        console.log('yep')
         setShowNominees(false);
     } 
 
