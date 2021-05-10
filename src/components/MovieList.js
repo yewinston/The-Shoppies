@@ -92,7 +92,7 @@ export default function MovieList(props){
         return(
                 // Movie Cards
                 <Grid container direction="row" alignItems="center" justify="center" spacing={2}>
-                    <Grid item>
+                    <Grid item xs={12}>
                         <Grid container direction="row" justify="flex-start" spacing={2}>
                             {
                                 movies.Search.map((movieData, i) => (
